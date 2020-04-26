@@ -1,0 +1,28 @@
+.navbar{
+  background-color: #ffc986;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.input-group button{
+  background-color: #132428;
+}
+
+.input-group button:hover{
+  background-color: #fbf6f3;
+  color: #5b4645;
+}
+
+.task-style{
+  padding: 5px 5px 5px 15px;
+  background-color: #fff8f0;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px grey;
+  font-family: 'Handlee', cursive;
+}
+
+nav{
+  border-bottom: 5px solid black;
+  border-bottom-left-radius:50px;
+  border-bottom-right-radius:50px;
+
+}
